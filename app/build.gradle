@@ -37,4 +37,7 @@ dependencies {
     implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
     implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
 
+    //Library for tablayout in kotlin
+    implementation 'com.android.support:design:28.1.0'
+
 }
